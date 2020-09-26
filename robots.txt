@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://icypole.github.io/sitemap.xml
