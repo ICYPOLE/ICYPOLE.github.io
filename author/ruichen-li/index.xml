@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zheng LI</title>
-    <link>https://icypole.github.io/</link>
-      <atom:link href="https://icypole.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Zheng LI</description>
+    <title>Ruichen Li | Zheng LI</title>
+    <link>https://icypole.github.io/author/ruichen-li/</link>
+      <atom:link href="https://icypole.github.io/author/ruichen-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruichen Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 17:14:34 +0800</lastBuildDate>
     <image>
       <url>https://icypole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Zheng LI</title>
-      <link>https://icypole.github.io/</link>
+      <title>Ruichen Li</title>
+      <link>https://icypole.github.io/author/ruichen-li/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://icypole.github.io/project/easygraph/</link>
       <pubDate>Tue, 29 Sep 2020 17:14:34 +0800</pubDate>
       <guid>https://icypole.github.io/project/easygraph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How subtle can it get? A Trimodal Study of Ring-sized Interfaces for One-handed Drone Control.</title>
-      <link>https://icypole.github.io/publication/how-subtle-can-it-get/</link>
-      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://icypole.github.io/publication/how-subtle-can-it-get/</guid>
       <description></description>
     </item>
     
