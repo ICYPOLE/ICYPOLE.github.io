@@ -3,11 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://icypole.github.io/publication-type/1/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://icypole.github.io/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://icypole.github.io/authors/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icypole.github.io/publication/how-subtle-can-it-get/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icypole.github.io/author/lik-hang-lee/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icypole.github.io/author/pan-hui/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icypole.github.io/publication_types/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icypole.github.io/publication/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icypole.github.io/author/tristan-braud/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icypole.github.io/author/yi-hsuan-ho/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icypole.github.io/author/yui-pan-yau/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://icypole.github.io/author/zheng-li/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,19 +67,7 @@
   </url>
   
   <url>
-    <loc>https://icypole.github.io/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
     <loc>https://icypole.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://icypole.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://icypole.github.io/publication/</loc>
   </url>
   
   <url>
@@ -36,6 +76,10 @@
   
   <url>
     <loc>https://icypole.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://icypole.github.io/author/zheng-li-%E6%9D%8E%E6%94%BF/</loc>
   </url>
   
 </urlset>
